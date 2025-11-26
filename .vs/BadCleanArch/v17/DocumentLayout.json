@@ -1,7 +1,32 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\leona\\Downloads\\BadCleanArch_compilable\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\Parcial\\Parcial\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{33333333-3333-3333-3333-333333333333}|src\\Infrastructure\\Infrastructure.csproj|c:\\users\\admin\\desktop\\parcial\\parcial\\src\\infrastructure\\data\\baddb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33333333-3333-3333-3333-333333333333}|src\\Infrastructure\\Infrastructure.csproj|solutionrelative:src\\infrastructure\\data\\baddb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33333333-3333-3333-3333-333333333333}|src\\Infrastructure\\Infrastructure.csproj|c:\\users\\admin\\desktop\\parcial\\parcial\\src\\infrastructure\\logging\\logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33333333-3333-3333-3333-333333333333}|src\\Infrastructure\\Infrastructure.csproj|solutionrelative:src\\infrastructure\\logging\\logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44444444-4444-4444-4444-444444444444}|src\\WebApi\\WebApi.csproj|c:\\users\\admin\\desktop\\parcial\\parcial\\src\\webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44444444-4444-4444-4444-444444444444}|src\\WebApi\\WebApi.csproj|solutionrelative:src\\webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11111111-1111-1111-1111-111111111111}|src\\Domain\\Domain.csproj|c:\\users\\admin\\desktop\\parcial\\parcial\\src\\domain\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11111111-1111-1111-1111-111111111111}|src\\Domain\\Domain.csproj|solutionrelative:src\\domain\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11111111-1111-1111-1111-111111111111}|src\\Domain\\Domain.csproj|c:\\users\\admin\\desktop\\parcial\\parcial\\src\\domain\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11111111-1111-1111-1111-111111111111}|src\\Domain\\Domain.csproj|solutionrelative:src\\domain\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22222222-2222-2222-2222-222222222222}|src\\Application\\Application.csproj|c:\\users\\admin\\desktop\\parcial\\parcial\\src\\application\\usecases\\createorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22222222-2222-2222-2222-222222222222}|src\\Application\\Application.csproj|solutionrelative:src\\application\\usecases\\createorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,8 +34,12 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 48,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{809f6ff3-8092-454a-8003-6d4091f9b5bb}"
@@ -190,6 +219,84 @@
             {
               "$type": "Bookmark",
               "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Parcial\\Parcial\\src\\WebApi\\Program.cs",
+              "RelativeDocumentMoniker": "src\\WebApi\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Parcial\\Parcial\\src\\WebApi\\Program.cs",
+              "RelativeToolTip": "src\\WebApi\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T01:57:14.395Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Logger.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Parcial\\Parcial\\src\\Infrastructure\\Logging\\Logger.cs",
+              "RelativeDocumentMoniker": "src\\Infrastructure\\Logging\\Logger.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Parcial\\Parcial\\src\\Infrastructure\\Logging\\Logger.cs",
+              "RelativeToolTip": "src\\Infrastructure\\Logging\\Logger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T01:56:48.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BadDb.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Parcial\\Parcial\\src\\Infrastructure\\Data\\BadDb.cs",
+              "RelativeDocumentMoniker": "src\\Infrastructure\\Data\\BadDb.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Parcial\\Parcial\\src\\Infrastructure\\Data\\BadDb.cs",
+              "RelativeToolTip": "src\\Infrastructure\\Data\\BadDb.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T01:56:45.191Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OrderService.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Parcial\\Parcial\\src\\Domain\\Services\\OrderService.cs",
+              "RelativeDocumentMoniker": "src\\Domain\\Services\\OrderService.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Parcial\\Parcial\\src\\Domain\\Services\\OrderService.cs",
+              "RelativeToolTip": "src\\Domain\\Services\\OrderService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T01:56:20.557Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Parcial\\Parcial\\src\\Domain\\Entities\\Order.cs",
+              "RelativeDocumentMoniker": "src\\Domain\\Entities\\Order.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Parcial\\Parcial\\src\\Domain\\Entities\\Order.cs",
+              "RelativeToolTip": "src\\Domain\\Entities\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T01:55:52.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CreateOrder.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Parcial\\Parcial\\src\\Application\\UseCases\\CreateOrder.cs",
+              "RelativeDocumentMoniker": "src\\Application\\UseCases\\CreateOrder.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Parcial\\Parcial\\src\\Application\\UseCases\\CreateOrder.cs",
+              "RelativeToolTip": "src\\Application\\UseCases\\CreateOrder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T01:54:46.389Z",
+              "EditorCaption": ""
             }
           ]
         },
@@ -222,6 +329,10 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
             },
             {
               "$type": "Bookmark",
