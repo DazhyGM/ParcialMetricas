@@ -1,1 +1,0 @@
-YRCC:\Users\Esteban\Downloads\Parcial\Parcial\src\Domain\Domain.csproj¢net8.0òCSharp12

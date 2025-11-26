@@ -5,18 +5,15 @@ namespace Domain.Entities;
 
 public class Order
 {
-    public int Id { get; set; }
-    public string CustomerName { get; set; }
-    public string ProductName { get; set; }
-    public int Quantity { get; set; }
-    public decimal UnitPrice { get; set; }
+    public int Id;
+    public string CustomerName;
+    public string ProductName;
+    public int Quantity;
+    public decimal UnitPrice;
 
-    public decimal CalculateTotal()
+    public void CalculateTotalAndLog()
     {
-       
-        if (Quantity < 0 || UnitPrice < 0)
-            return 0;
-
-        return Quantity * UnitPrice;
+        var total = Quantity * UnitPrice; 
+        Infrastructure.Logging.Logger.Log("Total (maybe): " + total);
     }
 }

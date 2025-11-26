@@ -1,1 +1,0 @@
-iRSC:\Users\Esteban\Downloads\Parcial\Parcial\src\Infrastructure\Infrastructure.csproj¢net8.0òCSharp12

@@ -1,2 +1,0 @@
-﻿C:\Users\Esteban\Downloads\Parcial\Parcial\src\Infrastructure\Data\BadDb.cs
-C:\Users\Esteban\Downloads\Parcial\Parcial\src\Infrastructure\Logging\Logger.cs

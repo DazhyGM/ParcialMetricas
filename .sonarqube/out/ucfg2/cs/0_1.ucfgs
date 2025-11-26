@@ -1,0 +1,419 @@
+î
++Domain.Services.OrderService.LastOrders.getü
+îC:\Users\Admin\Documents\UNIVERSIDAD UNINPAHU\SEXTO SEMESTRE\METRICAS DE CALIDAD\3. Tercer corte\ParcialMetricas\src\Domain\Services\OrderService.cs' (1"0*
+0 (*
+1*°
+15 (L„
+‡
+5 (L:
+%04System.Collections.ObjectModel.ReadOnlyCollection<T>"6System.Collections.Generic.ICollection<T>.AsReadOnly()*`
+5 (?T*R
+Domain.Services.OrderService"0
+
+lastOrders"System.Collections.Generic.List<T>¶
+£
+5 (LG
+%ret?System.Collections.Generic.IReadOnlyList<Domain.Entities.Order>"__id*H
+5 (L<
+:
+%04System.Collections.ObjectModel.ReadOnlyCollection<T>*
+2*d
+2M (M"U
+L (MI
+G
+%ret?System.Collections.Generic.IReadOnlyList<Domain.Entities.Order>B "
+Domain.Services.OrderServiceHî
+Domain.Entities.Order.Id.getò
+çC:\Users\Admin\Documents\UNIVERSIDAD UNINPAHU\SEXTO SEMESTRE\METRICAS DE CALIDAD\3. Tercer corte\ParcialMetricas\src\Domain\Entities\Order.cs ("0*¥
+0 (˜
+Ù
+ò
+çC:\Users\Admin\Documents\UNIVERSIDAD UNINPAHU\SEXTO SEMESTRE\METRICAS DE CALIDAD\3. Tercer corte\ParcialMetricas\src\Domain\Entities\Order.cs (
+%retint"__id*√
+ò
+çC:\Users\Admin\Documents\UNIVERSIDAD UNINPAHU\SEXTO SEMESTRE\METRICAS DE CALIDAD\3. Tercer corte\ParcialMetricas\src\Domain\Entities\Order.cs (&*$
+Domain.Entities.Order"	
+Idint"™
+ò
+çC:\Users\Admin\Documents\UNIVERSIDAD UNINPAHU\SEXTO SEMESTRE\METRICAS DE CALIDAD\3. Tercer corte\ParcialMetricas\src\Domain\Entities\Order.cs (
+
+%retintB
+Domain.Entities.OrderHX`è
+Domain.Entities.Order.Id.setò
+çC:\Users\Admin\Documents\UNIVERSIDAD UNINPAHU\SEXTO SEMESTRE\METRICAS DE CALIDAD\3. Tercer corte\ParcialMetricas\src\Domain\Entities\Order.cs ("0*ü
+0 (‹
+Ÿ
+ò
+çC:\Users\Admin\Documents\UNIVERSIDAD UNINPAHU\SEXTO SEMESTRE\METRICAS DE CALIDAD\3. Tercer corte\ParcialMetricas\src\Domain\Entities\Order.cs ($
+Domain.Entities.Order"	
+Idint"__id*
+
+valueint"∞
+ò
+çC:\Users\Admin\Documents\UNIVERSIDAD UNINPAHU\SEXTO SEMESTRE\METRICAS DE CALIDAD\3. Tercer corte\ParcialMetricas\src\Domain\Entities\Order.cs (
+implicit return:
+valueintB
+Domain.Entities.OrderHX`Ø
+&Domain.Entities.Order.CustomerName.getò
+çC:\Users\Admin\Documents\UNIVERSIDAD UNINPAHU\SEXTO SEMESTRE\METRICAS DE CALIDAD\3. Tercer corte\ParcialMetricas\src\Domain\Entities\Order.cs	! 	($"0*«
+0	% 	(%á
+Ñ
+ò
+çC:\Users\Admin\Documents\UNIVERSIDAD UNINPAHU\SEXTO SEMESTRE\METRICAS DE CALIDAD\3. Tercer corte\ParcialMetricas\src\Domain\Entities\Order.cs	! 	($
+%retstring"__id*–
+ò
+çC:\Users\Admin\Documents\UNIVERSIDAD UNINPAHU\SEXTO SEMESTRE\METRICAS DE CALIDAD\3. Tercer corte\ParcialMetricas\src\Domain\Entities\Order.cs	! 	($3*1
+Domain.Entities.Order"
+CustomerNamestring"≠
+ò
+çC:\Users\Admin\Documents\UNIVERSIDAD UNINPAHU\SEXTO SEMESTRE\METRICAS DE CALIDAD\3. Tercer corte\ParcialMetricas\src\Domain\Entities\Order.cs	! 	($
+
+%retstringB
+Domain.Entities.OrderH`≠
+%Domain.Entities.Order.ProductName.getò
+çC:\Users\Admin\Documents\UNIVERSIDAD UNINPAHU\SEXTO SEMESTRE\METRICAS DE CALIDAD\3. Tercer corte\ParcialMetricas\src\Domain\Entities\Order.cs
+  
+(#"0*∆
+0
+$ 
+($Ü
+É
+ò
+çC:\Users\Admin\Documents\UNIVERSIDAD UNINPAHU\SEXTO SEMESTRE\METRICAS DE CALIDAD\3. Tercer corte\ParcialMetricas\src\Domain\Entities\Order.cs
+  
+(#
+%retstring"__id*œ
+ò
+çC:\Users\Admin\Documents\UNIVERSIDAD UNINPAHU\SEXTO SEMESTRE\METRICAS DE CALIDAD\3. Tercer corte\ParcialMetricas\src\Domain\Entities\Order.cs
+  
+(#2*0
+Domain.Entities.Order"
+ProductNamestring"≠
+ò
+çC:\Users\Admin\Documents\UNIVERSIDAD UNINPAHU\SEXTO SEMESTRE\METRICAS DE CALIDAD\3. Tercer corte\ParcialMetricas\src\Domain\Entities\Order.cs
+  
+(#
+
+%retstringB
+Domain.Entities.OrderH`¨
+&Domain.Entities.Order.CustomerName.setò
+çC:\Users\Admin\Documents\UNIVERSIDAD UNINPAHU\SEXTO SEMESTRE\METRICAS DE CALIDAD\3. Tercer corte\ParcialMetricas\src\Domain\Entities\Order.cs	& 	()"0*Ø
+0	* 	(*Ï
+È
+ò
+çC:\Users\Admin\Documents\UNIVERSIDAD UNINPAHU\SEXTO SEMESTRE\METRICAS DE CALIDAD\3. Tercer corte\ParcialMetricas\src\Domain\Entities\Order.cs	& 	()1
+Domain.Entities.Order"
+CustomerNamestring"__id*
+
+valuestring"∞
+ò
+çC:\Users\Admin\Documents\UNIVERSIDAD UNINPAHU\SEXTO SEMESTRE\METRICAS DE CALIDAD\3. Tercer corte\ParcialMetricas\src\Domain\Entities\Order.cs	& 	()
+implicit return:
+valuestringB
+Domain.Entities.OrderHX`™
+%Domain.Entities.Order.ProductName.setò
+çC:\Users\Admin\Documents\UNIVERSIDAD UNINPAHU\SEXTO SEMESTRE\METRICAS DE CALIDAD\3. Tercer corte\ParcialMetricas\src\Domain\Entities\Order.cs
+% 
+(("0*Æ
+0
+) 
+()Î
+Ë
+ò
+çC:\Users\Admin\Documents\UNIVERSIDAD UNINPAHU\SEXTO SEMESTRE\METRICAS DE CALIDAD\3. Tercer corte\ParcialMetricas\src\Domain\Entities\Order.cs
+% 
+((0
+Domain.Entities.Order"
+ProductNamestring"__id*
+
+valuestring"∞
+ò
+çC:\Users\Admin\Documents\UNIVERSIDAD UNINPAHU\SEXTO SEMESTRE\METRICAS DE CALIDAD\3. Tercer corte\ParcialMetricas\src\Domain\Entities\Order.cs
+% 
+((
+implicit return:
+valuestringB
+Domain.Entities.OrderHX`∏
+Domain.Entities.Order.Order()ò
+çC:\Users\Admin\Documents\UNIVERSIDAD UNINPAHU\SEXTO SEMESTRE\METRICAS DE CALIDAD\3. Tercer corte\ParcialMetricas\src\Domain\Entities\Order.cs ("0*X
+0<
+:
+
+%0void"object.Object()*
+Domain.Entities.Order"
+implicit returnB
+Domain.Entities.OrderHX`¢
+2Domain.Services.OrderService.OrderService()!staticü
+îC:\Users\Admin\Documents\UNIVERSIDAD UNINPAHU\SEXTO SEMESTRE\METRICAS DE CALIDAD\3. Tercer corte\ParcialMetricas\src\Domain\Services\OrderService.cs ( "0*†
+0ZX
+
+5 
+(F(
+%0"System.Collections.Generic.List<T>""System.Collections.Generic.List<T>ö
+ó
+
+5 
+(F(
+%1"System.Collections.Generic.List<T>")System.Collections.Generic.List<T>.List()*6
+
+5 
+(F*
+(
+%0"System.Collections.Generic.List<T>ï
+í
+
+3 
+(FR
+Domain.Services.OrderService"0
+
+lastOrders"System.Collections.Generic.List<T>"__id*,*
+(
+%0"System.Collections.Generic.List<T>0.
+) (5
+%2System.Random"System.Random\
+Z
+) (5
+%3System.Random"System.Random.Random()*!
+) (5
+
+%2System.Randomc
+a
+' (56
+Domain.Services.OrderService"
+rngSystem.Random"__id*
+
+%2System.Random"
+implicit returnB "
+Domain.Services.OrderServiceX`†
+"Domain.Entities.Order.Quantity.getò
+çC:\Users\Admin\Documents\UNIVERSIDAD UNINPAHU\SEXTO SEMESTRE\METRICAS DE CALIDAD\3. Tercer corte\ParcialMetricas\src\Domain\Entities\Order.cs ("0*∫
+0 (˝
+˙
+ò
+çC:\Users\Admin\Documents\UNIVERSIDAD UNINPAHU\SEXTO SEMESTRE\METRICAS DE CALIDAD\3. Tercer corte\ParcialMetricas\src\Domain\Entities\Order.cs (
+%retint"__id*…
+ò
+çC:\Users\Admin\Documents\UNIVERSIDAD UNINPAHU\SEXTO SEMESTRE\METRICAS DE CALIDAD\3. Tercer corte\ParcialMetricas\src\Domain\Entities\Order.cs (,**
+Domain.Entities.Order"
+Quantityint"™
+ò
+çC:\Users\Admin\Documents\UNIVERSIDAD UNINPAHU\SEXTO SEMESTRE\METRICAS DE CALIDAD\3. Tercer corte\ParcialMetricas\src\Domain\Entities\Order.cs (
+
+%retintB
+Domain.Entities.OrderHX`Æ
+#Domain.Entities.Order.UnitPrice.getò
+çC:\Users\Admin\Documents\UNIVERSIDAD UNINPAHU\SEXTO SEMESTRE\METRICAS DE CALIDAD\3. Tercer corte\ParcialMetricas\src\Domain\Entities\Order.cs (""0*«
+0# (#Ü
+É
+ò
+çC:\Users\Admin\Documents\UNIVERSIDAD UNINPAHU\SEXTO SEMESTRE\METRICAS DE CALIDAD\3. Tercer corte\ParcialMetricas\src\Domain\Entities\Order.cs ("
+%retdecimal"__id*Œ
+ò
+çC:\Users\Admin\Documents\UNIVERSIDAD UNINPAHU\SEXTO SEMESTRE\METRICAS DE CALIDAD\3. Tercer corte\ParcialMetricas\src\Domain\Entities\Order.cs ("1*/
+Domain.Entities.Order"
+	UnitPricedecimal"Æ
+ò
+çC:\Users\Admin\Documents\UNIVERSIDAD UNINPAHU\SEXTO SEMESTRE\METRICAS DE CALIDAD\3. Tercer corte\ParcialMetricas\src\Domain\Entities\Order.cs ("
+
+%retdecimalB
+Domain.Entities.OrderHX`©
+#Domain.Entities.Order.UnitPrice.setò
+çC:\Users\Admin\Documents\UNIVERSIDAD UNINPAHU\SEXTO SEMESTRE\METRICAS DE CALIDAD\3. Tercer corte\ParcialMetricas\src\Domain\Entities\Order.cs$ ('"0*Æ
+0( ((Î
+Ë
+ò
+çC:\Users\Admin\Documents\UNIVERSIDAD UNINPAHU\SEXTO SEMESTRE\METRICAS DE CALIDAD\3. Tercer corte\ParcialMetricas\src\Domain\Entities\Order.cs$ ('/
+Domain.Entities.Order"
+	UnitPricedecimal"__id*
+
+valuedecimal"∞
+ò
+çC:\Users\Admin\Documents\UNIVERSIDAD UNINPAHU\SEXTO SEMESTRE\METRICAS DE CALIDAD\3. Tercer corte\ParcialMetricas\src\Domain\Entities\Order.cs$ ('
+implicit return:
+valuedecimalB
+Domain.Entities.OrderHX`Ç
+FDomain.Services.OrderService.CreateOrder(string, string, int, decimal)ü
+îC:\Users\Admin\Documents\UNIVERSIDAD UNINPAHU\SEXTO SEMESTRE\METRICAS DE CALIDAD\3. Tercer corte\ParcialMetricas\src\Domain\Services\OrderService.cs (#"0*
+0 (*
+1*’	
+1 (@>
+ (	
+%0Domain.Entities.Order"Domain.Entities.Orders
+q
+ (	
+%1Domain.Entities.Order"Domain.Entities.Order.Order()*)
+ (	
+
+%0Domain.Entities.OrderW
+U
+ (	"
+	%capture0Domain.Entities.Order"__id*
+
+%0Domain.Entities.Order≥∞
+ (%	
+%2int"System.Random.Next(int, int)*D
+ (8*6
+Domain.Services.OrderService"
+rngSystem.Random*
+ (2*
+ ($2ˇ¨‚2Next(int, int)v
+t
+ (%	
+%3int"Domain.Entities.Order.Id.set*0
+ (	$
+"
+	%capture0Domain.Entities.Order*
+	
+%2intç
+ä
+ (#
+%4string"&Domain.Entities.Order.CustomerName.set*0
+ (	$
+"
+	%capture0Domain.Entities.Order*
+
+customerstringã
+à
+ (!
+%5string"%Domain.Entities.Order.ProductName.set*0
+ (	$
+"
+	%capture0Domain.Entities.Order*
+
+productstring}
+{
+ (	
+%6int""Domain.Entities.Order.Quantity.set*0
+ (	$
+"
+	%capture0Domain.Entities.Order*
+
+
+qtyintâ
+Ü
+ (
+%7decimal"#Domain.Entities.Order.UnitPrice.set*0
+ (	$
+"
+	%capture0Domain.Entities.Order*
+
+pricedecimalZ
+X
+ (	
+orderDomain.Entities.Order"__id*&$
+"
+	%capture0Domain.Entities.Order*
+2*—
+2 (€
+ÿ
+ (
+
+%8void"0System.Collections.Generic.ICollection<T>.Add(T)*`
+ (T*R
+Domain.Services.OrderService"0
+
+lastOrders"System.Collections.Generic.List<T>*,
+ ( 
+
+orderDomain.Entities.Order_
+]
+ (
+%retDomain.Entities.Order"__id*,
+ ( 
+
+orderDomain.Entities.Order*
+3*:
+3 ("+
+ (
+
+%retDomain.Entities.Order:
+$ (3
+customerstring:
+5 (C
+productstring:
+E (L
+
+qtyint:
+N ([
+pricedecimalB "
+Domain.Services.OrderServiceHõ
+"Domain.Entities.Order.Quantity.setò
+çC:\Users\Admin\Documents\UNIVERSIDAD UNINPAHU\SEXTO SEMESTRE\METRICAS DE CALIDAD\3. Tercer corte\ParcialMetricas\src\Domain\Entities\Order.cs (""0*•
+0# (#‚
+ﬂ
+ò
+çC:\Users\Admin\Documents\UNIVERSIDAD UNINPAHU\SEXTO SEMESTRE\METRICAS DE CALIDAD\3. Tercer corte\ParcialMetricas\src\Domain\Entities\Order.cs ("*
+Domain.Entities.Order"
+Quantityint"__id*
+
+valueint"∞
+ò
+çC:\Users\Admin\Documents\UNIVERSIDAD UNINPAHU\SEXTO SEMESTRE\METRICAS DE CALIDAD\3. Tercer corte\ParcialMetricas\src\Domain\Entities\Order.cs ("
+implicit return:
+valueintB
+Domain.Entities.OrderHX`∂
+&Domain.Entities.Order.CalculateTotal()ò
+çC:\Users\Admin\Documents\UNIVERSIDAD UNINPAHU\SEXTO SEMESTRE\METRICAS DE CALIDAD\3. Tercer corte\ParcialMetricas\src\Domain\Entities\Order.cs (!"0*
+0 (*
+1*–
+1 (b
+`
+ (	
+%0int""Domain.Entities.Order.Quantity.get*%
+ (
+Domain.Entities.OrderU
+S
+ (
+
+%1bool"	__compare*
+<*
+ (
+	
+%0int*
+ (2 *
+2
+3*Ÿ
+2 ()g
+e
+ (%
+%2decimal"#Domain.Entities.Order.UnitPrice.get*%
+ (%
+Domain.Entities.OrderY
+W
+ ()
+
+%3bool"	__compare*
+<*
+ (%
+
+%2decimal*
+( () *
+3
+4*G
+3 (3
+1
+ (
+%retdecimal"__id*
+ ( *
+5*î
+4 (#b
+`
+ (	
+%4int""Domain.Entities.Order.Quantity.get*%
+ (
+Domain.Entities.Orderg
+e
+ (#
+%5decimal"#Domain.Entities.Order.UnitPrice.get*%
+ (#
+Domain.Entities.Order3
+1
+ (#
+%retdecimal"__id*
+ (# *
+5*,
+5 ("
+ (
+
+%retdecimalB
+Domain.Entities.OrderHX

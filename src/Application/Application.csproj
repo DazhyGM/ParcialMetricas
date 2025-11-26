@@ -5,8 +5,9 @@
     <ImplicitUsings>disable</ImplicitUsings>
   </PropertyGroup>
 
-  <!-- Fixed: Application should not reference WebApi or Infrastructure -->
+  <!-- BAD: Application knows about Web layer and Infrastructure (more violations) -->
   <ItemGroup>
-    <ProjectReference Include="..\Domain\Domain.csproj" />
+    <ProjectReference Include="..\WebApi\WebApi.csproj" />
+    <ProjectReference Include="..\Infrastructure\Infrastructure.csproj" />
   </ItemGroup>
 </Project>
